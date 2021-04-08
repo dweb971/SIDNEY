@@ -1,0 +1,53 @@
+
+
+#resizePic{
+    width: 550px;
+    height: 450px;
+
+}
+
+.marg{
+    margin-left: 30px;
+}
+.border{
+    border-radius: 30px;
+    border-color: blue;
+
+}
+
+a:hover{
+    background-color: blue;
+}
+
+.backG{
+    background-color: rgba(187, 168, 163, 0.199);
+}
+
+.hello{
+    margin-top: 110px;
+    margin-left: 350px;
+    color: rgb(117, 114, 114);
+}
+.txt{
+
+    margin-left: 350px;
+}
+
+.marginTop{
+    margin-top: 40px;
+}
+
+.colorW{
+
+    background-color: white;
+}
+
+.placeH {
+    margin-left: 800px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+H4{
+    text-align: center;
+}
